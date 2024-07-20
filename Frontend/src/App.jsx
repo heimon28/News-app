@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import viteLogo from '/vite.svg'
+import viteLogo from '/favicon.ico'
 import './App.css'
 import Header from './components/header/Header'
 import Footer from './components/footer/Footer'
