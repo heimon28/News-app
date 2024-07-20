@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   server: {
     proxy: {
-      '/api': 'backend-llsz7cpxz-heimon28s-projects.vercel.app'
+      '/api': 'https://news-app-15hj.onrender.com'
 
     }
   },
