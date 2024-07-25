@@ -61,7 +61,7 @@ const getPostById = asyncHandler(async (req, res) => {
   
      
   // const id = parseInt(req.params.id);
-  const id = req.params.id;
+  const id = req.params._id;
    console.log(id);        
   // const allPosts = await Blog.find();
   // console.log('this is allpost', allPosts); 
